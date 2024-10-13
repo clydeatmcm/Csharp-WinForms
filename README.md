@@ -16,5 +16,5 @@
 7. Once finished, close the solution and go to your project's directory then compress the entire folder
 8. Proceed to CodeChum then submit.
 9. If it fails, review the instructions and must follow all the details and check spelling errors then repeat step 8.
-10. If it is ok, no need to create a new project, instead repeat step 6 and proceed to other activities.
+10. If it is ok, no need to create a new project, instead repeat step 5 and proceed to other activities.
 ```
